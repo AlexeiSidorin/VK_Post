@@ -1,0 +1,16 @@
+package domain;
+
+/**
+ *
+ * Информация о записи Donut
+ */
+
+public class Donut {
+
+    private boolean isDonut;
+    private int paidDuration;
+    private Placeholder placeholder;
+    private boolean canPublishFreeCopy;
+    private String EditMode;
+
+}
