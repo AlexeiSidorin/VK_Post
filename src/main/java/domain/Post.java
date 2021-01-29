@@ -9,7 +9,7 @@ public class Post {
      *
      */
 
-    private long id;
+    private long ownerId;
     private String name;
     private String iconLink;
     private Date dataCreated;
