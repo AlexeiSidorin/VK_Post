@@ -8,6 +8,6 @@ package domain;
 public class Like {
 
     private int count;
-    private int user_likes;
-    private int can_like;
+    private int userLikes;
+    private int canLike;
 }
